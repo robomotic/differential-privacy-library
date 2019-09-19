@@ -21,6 +21,7 @@ Basic mechanisms for achieving differential privacy, the basic building blocks o
 from diffprivlib.mechanisms.base import DPMachine, DPMechanism, TruncationAndFoldingMixin
 
 from diffprivlib.mechanisms.binary import Binary
+from diffprivlib.mechanisms.randresponse import GeneralRandomizedBinaryResponse
 from diffprivlib.mechanisms.exponential import Exponential, ExponentialHierarchical
 from diffprivlib.mechanisms.gaussian import Gaussian, GaussianAnalytic
 from diffprivlib.mechanisms.geometric import Geometric, GeometricFolded, GeometricTruncated

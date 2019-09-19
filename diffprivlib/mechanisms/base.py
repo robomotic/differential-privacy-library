@@ -253,6 +253,18 @@ class DPMechanism(DPMachine, abc.ABC):
 
         return self
 
+    def check_probability(self,value:float)->bool:
+        '''
+        Check that the probability is within [0,1]
+        :param value: probability
+        :return: bool
+        '''
+        if value >=.0 and value <= 1.0:
+            return True
+        else:
+            return False
+
+
     def check_inputs(self, value):
         """Checks that all parameters of the mechanism have been initialised correctly, and that the mechanism is ready
         to be used.
