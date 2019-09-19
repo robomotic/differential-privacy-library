@@ -1,8 +1,13 @@
 # IBM Differential Privacy Library
 
-[![Python versions](https://img.shields.io/pypi/pyversions/diffprivlib.svg)](https://pypi.org/project/diffprivlib/) [![PyPi version](https://img.shields.io/pypi/v/diffprivlib.svg)](https://pypi.org/project/diffprivlib/) [![Build Status](https://travis-ci.org/IBM/differential-privacy-library.svg?branch=master)](https://travis-ci.org/IBM/differential-privacy-library) [![Documentation Status](https://readthedocs.org/projects/diffprivlib/badge/?version=latest)](https://diffprivlib.readthedocs.io/en/latest/?badge=latest) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/IBM/differential-privacy-library.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/IBM/differential-privacy-library/context:python)
+[![Python versions](https://img.shields.io/pypi/pyversions/diffprivlib.svg)](https://pypi.org/project/diffprivlib/)
+[![PyPi version](https://img.shields.io/pypi/v/diffprivlib.svg)](https://pypi.org/project/diffprivlib/)
+[![Build Status](https://travis-ci.org/robomotic/differential-privacy-library.svg?branch=master)](https://travis-ci.org/robomotic/differential-privacy-library)
+[![Documentation Status](https://readthedocs.org/projects/diffprivlib/badge/?version=latest)](https://diffprivlib.readthedocs.io/en/latest/?badge=latest)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/IBM/differential-privacy-library.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/IBM/differential-privacy-library/context:python)
+[![Coverage Status](https://coveralls.io/repos/github/robomotic/differential-privacy-library/badge.svg?branch=master)](https://coveralls.io/github/robomotic/differential-privacy-library?branch=master)
 
-## You have just found the IBM Differential Privacy Library
+## You have just found a fork of IBM Differential Privacy Library
 
 The IBM Differential Privacy Library is a general-purpose library for experimenting, investigating and developing applications in differential privacy.
 
